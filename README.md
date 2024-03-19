@@ -1,4 +1,4 @@
-# Node Classification of Cora Dataset using Graph Neural Network in Pytorch
+# Node Classification on Cora Dataset using Graph Neural Network in Pytorch
 Node Classification on large Knowledge Graphs of Cora Dataset using Graph Neural Network (GNN) in Pytorch.
 
 Dataset:  Cora Dataset consists of 2708 scientific publications classified into one of seven classes.
